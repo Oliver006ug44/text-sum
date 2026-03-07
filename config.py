@@ -1,0 +1,3 @@
+HF_API_KEY_old="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"
+
+HF_API_KEY="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"
